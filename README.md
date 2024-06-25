@@ -9,5 +9,4 @@ This bot is a simple example of a mining bot that utilizes the power of the OSBo
 ### Dependencies
 
     OSBot framework: https://osbot.org/
-    RuneLite game client: https://runelite.net/
     Java Runtime Environment (JRE) 8 or higher
